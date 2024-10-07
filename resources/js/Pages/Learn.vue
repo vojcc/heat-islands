@@ -1,7 +1,7 @@
 <template>
     <Default>
         <p class="w-full max-w-[1400px] font-sans1 font-light text-center text-white text-xl md:text-2xl md:pt-12 p-5 md:p-8 leading-loose">An <strong class="font-bold">Urban Heat Island (UHI)</strong> occurs when urban areas become significantly warmer than surrounding rural areas due to heat-absorbing materials like concrete and asphalt, and reduced vegetation. Buildings and roads trap heat, while the lack of green spaces limits natural cooling.</p>
-        <div style="margin-bottom: 20px;" class="h-full md:h-full flex items-center">
+        <div class="h-full md:h-full flex items-center mb-20">
             <div class="h-full">
                 <div class="w-screen grid grid-cols-1 md:grid-cols-3 gap-10 max-w-[1400px] text-white px-4 md:px-20 text-lg md:text-xl font-sans1 leading-relaxed">
                     <div class="flex flex-col items-center px-5 md:px-0">
